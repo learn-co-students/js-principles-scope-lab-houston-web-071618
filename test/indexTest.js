@@ -39,4 +39,5 @@ describe('Fix the Scope', function() {
       expect(changeLeastFavoriteCustomer).to.throw(TypeError);
     });
   });
+  
 });
